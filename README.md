@@ -14,5 +14,5 @@ If it says the app is damaged, open Terminal and run:
 
     xattr -cr /Applications/"Kirby ~ Soft & Wet.app"
 
-The app is ad-hoc signed, not notarized by Apple, which is why the warning appears.
+The app is ad-hoc signed, not notarized by Apple, which is why the warning appears. also i didnt really change much when converting so bc of that there are likely bugs i havent seen but wtvr, ts will be outdated in like 9 days anyway :P
 okok bai
