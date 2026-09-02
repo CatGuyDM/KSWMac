@@ -1,4 +1,4 @@
-# Kirby ~ Soft & Wet — macOS build
+# KSW MacOS
 hewwoooo ik ur stewpid so lmk if u need help.
 (Unofficial macOS build of [Kirby ~ Soft & Wet](https://strimps-kitchen.itch.io/kirby-soft-and-wet)
 by Strimp's Kitchen. All credit to the original developer.)
