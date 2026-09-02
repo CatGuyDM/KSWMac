@@ -5,7 +5,7 @@ by Strimp's Kitchen. All credit to the original developer.)
 
 ## Install
 
-1. Download the .zip from Releases
+1. Download the .zip from Releases (titled: Da Zip)
 2. Unzip
 3. Open :) (bc u downloaded from web its gonna get blocked likely, so it wont work the first time)
 4. Go to System Settings → Privacy & Security → scroll down → **Open Anyway**
